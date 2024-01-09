@@ -1,0 +1,2 @@
+INSERT INTO RecordContent(recordContentName,createUserId,isValid) VALUES('record1',1,true);
+INSERT INTO RecordContent(recordContentName,createUserId,isValid) VALUES('record2',1,true);

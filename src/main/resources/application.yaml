@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    data-source-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/record_app
+    username: root
+    password:
